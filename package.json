@@ -1,5 +1,5 @@
 {
-  "name": "npm-sorting",
+  "name": "sorting",
   "version": "0.1.0",
   "description": "some small lib to help you sorting problem, i have bubblesort, selectionsort, and mergesort",
   "main": "index.js",
